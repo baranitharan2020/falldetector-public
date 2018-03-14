@@ -24,3 +24,7 @@ while 1:
 	video.testSettings()
 	if video.testDestroy():
 		sys.exit()
+		
+
+
+
